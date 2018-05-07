@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="tvx">X:</string>
+    <string name="tvy">Y:</string>
+    <string name="tvz">Z:</string>
+    <string name="tvtf">Total Force:</string>
+    <string name="tvc">Count:</string>
+    <string name="button">Clear</string>
+</resources>
